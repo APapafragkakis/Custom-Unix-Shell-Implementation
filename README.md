@@ -169,15 +169,6 @@ turnin assignment_1@hy345 <directory_name>
 
 ## Author Information
 
-Add your name and student ID at the top of your source files:
-```c
-/*
- * Name: [Your Full Name]
- * Student ID: [Your Student ID]
- * Course: HY345 - Operating Systems
- * Assignment: Shell Implementation
- */
-```
 
 ## Resources
 
